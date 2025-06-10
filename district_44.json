@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u00e1c \u00e1i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bac-ai-8342",
+        "province_id": 44,
+        "province_name": "Ninh Thu\u1eadn"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Ninh H\u1ea3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ninh-hai-2855",
+        "province_id": 44,
+        "province_name": "Ninh Thu\u1eadn"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Ninh Ph\u01b0\u1edbc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ninh-phuoc-2132",
+        "province_id": 44,
+        "province_name": "Ninh Thu\u1eadn"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ninh S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ninh-son-6073",
+        "province_id": 44,
+        "province_name": "Ninh Thu\u1eadn"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Thu\u1eadn B\u1eafc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thuan-bac-4396",
+        "province_id": 44,
+        "province_name": "Ninh Thu\u1eadn"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Thu\u1eadn Nam",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thuan-nam-3258",
+        "province_id": 44,
+        "province_name": "Ninh Thu\u1eadn"
+    },
+    {
+        "id": 7,
+        "name": "TP. Phan Rang-Th\u00e1p Ch\u00e0m",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/tp-phan-rang-thap-cham-12",
+        "province_id": 44,
+        "province_name": "Ninh Thu\u1eadn"
+    }
+]

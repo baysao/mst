@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u1ed1 Tr\u1ea1ch",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bo-trach-1358",
+        "province_id": 47,
+        "province_name": "Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n L\u1ec7 Thu\u1ef7",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-le-thuy-61",
+        "province_id": 47,
+        "province_name": "Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Minh Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-minh-hoa-1881",
+        "province_id": 47,
+        "province_name": "Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Qu\u1ea3ng Ninh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quang-ninh-3311",
+        "province_id": 47,
+        "province_name": "Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Qu\u1ea3ng Tr\u1ea1ch",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quang-trach-1776",
+        "province_id": 47,
+        "province_name": "Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Tuy\u00ean Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tuyen-hoa-4316",
+        "province_id": 47,
+        "province_name": "Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "id": 7,
+        "name": "Th\u00e0nh ph\u1ed1 \u0110\u1ed3ng H\u1edbi",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-dong-hoi-173",
+        "province_id": 47,
+        "province_name": "Qu\u1ea3ng B\u00ecnh"
+    },
+    {
+        "id": 8,
+        "name": "Th\u1ecb X\u00e3 Ba \u0110\u1ed3n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-ba-don-1519",
+        "province_id": 47,
+        "province_name": "Qu\u1ea3ng B\u00ecnh"
+    }
+]

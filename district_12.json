@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n C\u00e1i N\u01b0\u1edbc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cai-nuoc-472",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n \u0110\u1ea7m D\u01a1i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dam-doi-1360",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n N\u0103m C\u0103n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nam-can-4658",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ng\u1ecdc Hi\u1ec3n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ngoc-hien-2747",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ph\u00fa T\u00e2n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-tan-1985",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Th\u1edbi B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thoi-binh-470",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Tr\u1ea7n V\u0103n Th\u1eddi",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tran-van-thoi-484",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n U Minh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-u-minh-3850",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    },
+    {
+        "id": 9,
+        "name": "khu t\u00e1i \u0111\u1ecbnh c\u01b0 ph\u01b0\u1eddng 1 - ph\u01b0\u1eddng 9",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/khu-tai-dinh-cu-phuong-1-phuong-9-15369",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    },
+    {
+        "id": 10,
+        "name": "Th\u00e0nh ph\u1ed1 C\u00e0 Mau",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-ca-mau-109",
+        "province_id": 12,
+        "province_name": "C\u00e0 Mau"
+    }
+]

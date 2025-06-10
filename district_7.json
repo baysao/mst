@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "38 Hai B\u00e0 Tr\u01b0ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/38-hai-ba-trung-15132",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Ba Tri",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ba-tri-3228",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n B\u00ecnh \u0110\u1ea1i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-binh-dai-849",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chau-thanh-1609",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ch\u1ee3 L\u00e1ch",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cho-lach-2388",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Gi\u1ed3ng Tr\u00f4m",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-giong-trom-1331",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n M\u1ecf C\u00e0y B\u1eafc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-mo-cay-bac-2424",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n M\u1ecf C\u00e0y Nam",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-mo-cay-nam-2340",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n Th\u1ea1nh Ph\u00fa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thanh-phu-935",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    },
+    {
+        "id": 10,
+        "name": "Th\u00e0nh ph\u1ed1 B\u1ebfn Tre",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-ben-tre-186",
+        "province_id": 7,
+        "province_name": "B\u1ebfn Tre"
+    }
+]

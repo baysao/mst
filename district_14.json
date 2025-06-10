@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u1ea3o L\u1ea1c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bao-lac-9430",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n B\u1ea3o L\u00e2m",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bao-lam-9607",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n H\u1ea1 Lang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ha-lang-7932",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n H\u00e0 Qu\u1ea3ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ha-quang-9612",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ho\u00e0 An",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hoa-an-1613",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Nguy\u00ean B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nguyen-binh-3398",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Ph\u1ee5c Ho\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phuc-hoa-4945",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Qu\u1ea3ng H\u00f2a",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quang-hoa-12370",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n Qu\u1ea3ng H\u00f2a (h\u1ebft hi\u1ec7u l\u1ef1c)",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quang-hoa-het-hieu-luc-12408",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n Qu\u1ea3ng Uy\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quang-uyen-5574",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 11,
+        "name": "Huy\u1ec7n Th\u1ea1ch An",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thach-an-7597",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 12,
+        "name": "Huy\u1ec7n Th\u00f4ng N\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thong-nong-9613",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 13,
+        "name": "Huy\u1ec7n Tr\u00e0 L\u0129nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tra-linh-9602",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 14,
+        "name": "Huy\u1ec7n Tr\u00f9ng Kh\u00e1nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-trung-khanh-3148",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    },
+    {
+        "id": 15,
+        "name": "Th\u00e0nh ph\u1ed1 Cao B\u1eb1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-cao-bang-1898",
+        "province_id": 14,
+        "province_name": "Cao B\u1eb1ng"
+    }
+]

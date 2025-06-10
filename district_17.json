@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n C\u01b0 J\u00fat",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cu-jut-3085",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n \u0110\u1eafk Glong",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-glong-3304",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n \u0110\u1eafk Mil",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-mil-2453",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n \u0110\u1eafk R&amp;#039;L\u1ea5p",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-r-039-lap-15036",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n \u0110\u1eafk R'L\u1ea5p",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-r-lap-2630",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n \u0110\u1eafk R'L\u1ea5p",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-r-lap-15277",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n \u0110\u1eafk Song",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-song-3150",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Kr\u00f4ng N\u00f4",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-krong-no-5610",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n Tuy \u0110\u1ee9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tuy-duc-1692",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 10,
+        "name": "Th\u00e0nh ph\u1ed1 Gia Ngh\u0129a",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-gia-nghia-11946",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    },
+    {
+        "id": 11,
+        "name": "Th\u1ecb x\u00e3 Gia Ngh\u0129a",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-gia-nghia-246",
+        "province_id": 17,
+        "province_name": "\u0110\u1eafk N\u00f4ng"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u00ecnh Xuy\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-binh-xuyen-1677",
+        "province_id": 63,
+        "province_name": "V\u0129nh Ph\u00fac"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n L\u1eadp Th\u1ea1ch",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-lap-thach-3196",
+        "province_id": 63,
+        "province_name": "V\u0129nh Ph\u00fac"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n S\u00f4ng L\u00f4",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-song-lo-4608",
+        "province_id": 63,
+        "province_name": "V\u0129nh Ph\u00fac"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Tam \u0110\u1ea3o",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tam-dao-4923",
+        "province_id": 63,
+        "province_name": "V\u0129nh Ph\u00fac"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Tam D\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tam-duong-3406",
+        "province_id": 63,
+        "province_name": "V\u0129nh Ph\u00fac"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n V\u0129nh T\u01b0\u1eddng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vinh-tuong-1081",
+        "province_id": 63,
+        "province_name": "V\u0129nh Ph\u00fac"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Y\u00ean L\u1ea1c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-yen-lac-3408",
+        "province_id": 63,
+        "province_name": "V\u0129nh Ph\u00fac"
+    },
+    {
+        "id": 8,
+        "name": "Th\u00e0nh ph\u1ed1 Ph\u00fac Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-phuc-yen-1711",
+        "province_id": 63,
+        "province_name": "V\u0129nh Ph\u00fac"
+    },
+    {
+        "id": 9,
+        "name": "Th\u00e0nh ph\u1ed1 V\u0129nh Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-vinh-yen-421",
+        "province_id": 63,
+        "province_name": "V\u0129nh Ph\u00fac"
+    }
+]

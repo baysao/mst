@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n Cam L\u1ed9",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cam-lo-2523",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n \u0110a Kr\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-da-krong-1863",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n \u0110akr\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dakrong-15676",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n \u0110\u1ea3o C\u1ed3n C\u1ecf",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dao-con-co-9415",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Gio Linh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-gio-linh-4134",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n H\u1ea3i L\u0103ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hai-lang-70",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n H\u01b0\u1edbng Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-huong-hoa-116",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Tri\u1ec7u Phong",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-trieu-phong-3096",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n V\u0129nh Linh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vinh-linh-3143",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 10,
+        "name": "Th\u00e0nh ph\u1ed1 \u0110\u00f4ng H\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-dong-ha-702",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    },
+    {
+        "id": 11,
+        "name": "Th\u1ecb x\u00e3 Qu\u1ea3ng Tr\u1ecb",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-quang-tri-2537",
+        "province_id": 51,
+        "province_name": "Qu\u1ea3ng Tr\u1ecb"
+    }
+]

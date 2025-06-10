@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n Ba B\u1ec3",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ba-be-3780",
+        "province_id": 4,
+        "province_name": "B\u1eafc K\u1ea1n"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n B\u1ea1ch Th\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bach-thong-4420",
+        "province_id": 4,
+        "province_name": "B\u1eafc K\u1ea1n"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Ch\u1ee3 \u0110\u1ed3n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cho-don-4416",
+        "province_id": 4,
+        "province_name": "B\u1eafc K\u1ea1n"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ch\u1ee3 m\u1edbi",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cho-moi-3834",
+        "province_id": 4,
+        "province_name": "B\u1eafc K\u1ea1n"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Na R\u00ec",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-na-ri-9224",
+        "province_id": 4,
+        "province_name": "B\u1eafc K\u1ea1n"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Ng\u00e2n S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ngan-son-2814",
+        "province_id": 4,
+        "province_name": "B\u1eafc K\u1ea1n"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n P\u00e1c N\u1eb7m",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-pac-nam-9720",
+        "province_id": 4,
+        "province_name": "B\u1eafc K\u1ea1n"
+    },
+    {
+        "id": 8,
+        "name": "Th\u00e0nh ph\u1ed1 B\u1eafc K\u1ea1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-bac-kan-1128",
+        "province_id": 4,
+        "province_name": "B\u1eafc K\u1ea1n"
+    }
+]

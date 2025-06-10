@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "\u0111\u01b0\u1eddng Tr\u1ea7n Nguy\u00ean H\u00e3n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/duong-tran-nguyen-han-15076",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n L\u1ee5c Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-luc-yen-1907",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n M\u00f9 Cang Ch\u1ea3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-mu-cang-chai-1873",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Tr\u1ea1m T\u1ea5u",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tram-tau-7232",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Tr\u1ea5n Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tran-yen-3541",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n V\u0103n Ch\u1ea5n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-van-chan-1875",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n V\u0103n Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-van-yen-3791",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Y\u00ean B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-yen-binh-1818",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 9,
+        "name": "Th\u00e0nh ph\u1ed1 Y\u00ean B\u00e1i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-yen-bai-11520",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 10,
+        "name": "Th\u00e0nh ph\u1ed1 Y\u00ean B\u00e1i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-yen-bai-725",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    },
+    {
+        "id": 11,
+        "name": "Th\u1ecb x\u00e3 Ngh\u0129a L\u1ed9",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-nghia-lo-1726",
+        "province_id": 64,
+        "province_name": "Y\u00ean B\u00e1i"
+    }
+]

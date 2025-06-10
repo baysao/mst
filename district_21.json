@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "08 Ph\u1ea1m V\u0103n \u0110\u1ed3ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/08-pham-van-dong-15148",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 2,
+        "name": "135 Tr\u1ea7n Ph\u00fa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/135-tran-phu-15147",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Ch\u01b0 P\u0103h",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chu-pah-5808",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ch\u01b0 Pr\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chu-prong-5068",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ch\u01b0 P\u01b0h",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chu-puh-2400",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Ch\u01b0 S\u00ea",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chu-se-2881",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n \u0110ak \u0110oa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-doa-2915",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n \u0110akP\u01a1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dakpo-8350",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n \u0110\u1ee9c C\u01a1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-duc-co-5045",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n Ia Grai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ia-grai-2299",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 11,
+        "name": "Huy\u1ec7n Ia Pa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ia-pa-9668",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 12,
+        "name": "Huy\u1ec7n Kbang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kbang-9243",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 13,
+        "name": "Huy\u1ec7n K\u00f4ng Chro",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kong-chro-8420",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 14,
+        "name": "Huy\u1ec7n Kr\u00f4ng Pa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-krong-pa-4616",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 15,
+        "name": "Huy\u1ec7n Mang Yang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-mang-yang-8451",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 16,
+        "name": "Huy\u1ec7n Ph\u00fa Thi\u1ec7n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-thien-8389",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 17,
+        "name": "Th\u00e0nh ph\u1ed1 Pleiku",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-pleiku-11525",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 18,
+        "name": "Th\u00e0nh ph\u1ed1 Pleiku",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-pleiku-564",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 19,
+        "name": "Th\u1ecb x\u00e3 An Kh\u00ea",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-an-khe-4782",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    },
+    {
+        "id": 20,
+        "name": "Th\u1ecb x\u00e3 Ayun Pa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-ayun-pa-6836",
+        "province_id": 21,
+        "province_name": "Gia Lai"
+    }
+]

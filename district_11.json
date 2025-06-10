@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u1eafc B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bac-binh-895",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n \u0110\u1ee9c Linh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-duc-linh-2624",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n H\u00e0m T\u00e2n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ham-tan-678",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n H\u00e0m Thu\u1eadn B\u1eafc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ham-thuan-bac-1556",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n H\u00e0m Thu\u1eadn Nam",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ham-thuan-nam-393",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Ph\u00fa Qu\u00fd",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-quy-3637",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n T\u00e1nh Linh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tanh-linh-1783",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Tuy Phong",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tuy-phong-1524",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 9,
+        "name": "S\u1ed1 15 Tr\u1ea7n Quang Di\u1ec7u",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/so-15-tran-quang-dieu-15125",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 10,
+        "name": "Th\u00e0nh ph\u1ed1 Phan Thi\u1ebft",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-phan-thiet-11523",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 11,
+        "name": "Th\u00e0nh ph\u1ed1 Phan Thi\u1ebft",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-phan-thiet-21",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    },
+    {
+        "id": 12,
+        "name": "Th\u1ecb x\u00e3 La Gi",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-la-gi-791",
+        "province_id": 11,
+        "province_name": "B\u00ecnh Thu\u1eadn"
+    }
+]

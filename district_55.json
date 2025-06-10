@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n \u0110\u00f4ng H\u01b0ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dong-hung-1347",
+        "province_id": 55,
+        "province_name": "Th\u00e1i B\u00ecnh"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n H\u01b0ng H\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hung-ha-1866",
+        "province_id": 55,
+        "province_name": "Th\u00e1i B\u00ecnh"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Ki\u1ebfn X\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kien-xuong-941",
+        "province_id": 55,
+        "province_name": "Th\u00e1i B\u00ecnh"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Qu\u1ef3nh Ph\u1ee5",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quynh-phu-2271",
+        "province_id": 55,
+        "province_name": "Th\u00e1i B\u00ecnh"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Th\u00e1i Th\u1ee5y",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thai-thuy-515",
+        "province_id": 55,
+        "province_name": "Th\u00e1i B\u00ecnh"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Ti\u1ec1n H\u1ea3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tien-hai-1299",
+        "province_id": 55,
+        "province_name": "Th\u00e1i B\u00ecnh"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n V\u0169 Th\u01b0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vu-thu-359",
+        "province_id": 55,
+        "province_name": "Th\u00e1i B\u00ecnh"
+    },
+    {
+        "id": 8,
+        "name": "Th\u00e0nh ph\u1ed1 Th\u00e1i B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-thai-binh-129",
+        "province_id": 55,
+        "province_name": "Th\u00e1i B\u00ecnh"
+    }
+]

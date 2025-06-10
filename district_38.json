@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u1eafc S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bac-son-2604",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n B\u00ecnh Gia",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-binh-gia-4596",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Cao L\u1ed9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cao-loc-1232",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Chi L\u0103ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chi-lang-1047",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n \u0110\u00ecnh L\u1eadp",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dinh-lap-9964",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n H\u1eefu L\u0169ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-huu-lung-985",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n L\u1ed9c B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-loc-binh-5507",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Tr\u00e0ng \u0110\u1ecbnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-trang-dinh-5493",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n V\u0103n L\u00e3ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-van-lang-3363",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n V\u0103n Quan",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-van-quan-6670",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    },
+    {
+        "id": 11,
+        "name": "Th\u00e0nh ph\u1ed1 L\u1ea1ng S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-lang-son-998",
+        "province_id": 38,
+        "province_name": "L\u1ea1ng S\u01a1n"
+    }
+]

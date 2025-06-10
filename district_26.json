@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u00ecnh Giang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-binh-giang-371",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n C\u1ea9m Gi\u00e0ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cam-giang-527",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Gia L\u1ed9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-gia-loc-609",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Kim Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kim-thanh-766",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Kinh M\u00f4n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kinh-mon-913",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Nam S\u00e1ch",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nam-sach-329",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Ninh Giang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ninh-giang-175",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Thanh H\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thanh-ha-368",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n Thanh Mi\u1ec7n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thanh-mien-364",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n T\u1ee9 K\u1ef3",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tu-ky-607",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 11,
+        "name": "Th\u00e0nh ph\u1ed1 Ch\u00ed Linh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-chi-linh-11663",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 12,
+        "name": "Th\u00e0nh ph\u1ed1 H\u1ea3i D\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-hai-duong-148",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 13,
+        "name": "Thi\u0323 xa\u0303 Ch\u00ed Linh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-chi-linh-706",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    },
+    {
+        "id": 14,
+        "name": "Th\u1ecb x\u00e3 Kinh M\u00f4n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-kinh-mon-11841",
+        "province_id": 26,
+        "province_name": "H\u1ea3i D\u01b0\u01a1ng"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n An Bi\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-an-bien-627",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n An Minh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-an-minh-1684",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chau-thanh-700",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Giang Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-giang-thanh-1768",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Gi\u1ed3ng Ri\u1ec1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-giong-rieng-1956",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n G\u00f2 Quao",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-go-quao-2546",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n H\u00f2n \u0110\u1ea5t",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hon-dat-230",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Ki\u00ean H\u1ea3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kien-hai-1814",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n Ki\u00ean L\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kien-luong-890",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n Ph\u00fa Qu\u1ed1c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-quoc-81",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 11,
+        "name": "Huy\u1ec7n T\u00e2n Hi\u1ec7p",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tan-hiep-3042",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 12,
+        "name": "Huy\u1ec7n U Minh Th\u01b0\u1ee3ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-u-minh-thuong-572",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 13,
+        "name": "Huy\u1ec7n V\u0129nh Thu\u1eadn",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vinh-thuan-644",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 14,
+        "name": "Th\u00e0nh ph\u1ed1 H\u00e0 Ti\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-ha-tien-980",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 15,
+        "name": "Th\u00e0nh ph\u1ed1 Ph\u00fa Qu\u1ed1c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-phu-quoc-12596",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 16,
+        "name": "Th\u00e0nh ph\u1ed1 R\u1ea1ch Gi\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-rach-gia-204",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    },
+    {
+        "id": 17,
+        "name": "Th\u1ecb x\u00e3 H\u00e0 Ti\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-ha-tien-600",
+        "province_id": 34,
+        "province_name": "Ki\u00ean Giang"
+    }
+]

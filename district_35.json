@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n \u0110\u1eafk Glei",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-glei-4388",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n \u0110\u1eafk H\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-ha-1079",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n \u0110\u1eafk T\u00f4",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dak-to-3239",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ia H&amp;#039;Drai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ia-h-039-drai-15066",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ia H'Drai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ia-h-drai-15299",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Ia H'Drai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ia-h-drai-6646",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Kon Pl\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kon-plong-6842",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Kon R\u1eaby",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kon-ray-9257",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n Ng\u1ecdc H\u1ed3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ngoc-hoi-957",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n Sa Th\u1ea7y",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-sa-thay-4098",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 11,
+        "name": "Huy\u1ec7n Tu M\u01a1 R\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tu-mo-rong-11813",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 12,
+        "name": "Huy\u1ec7n Tu M\u01a1 R\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tu-mo-rong-9692",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    },
+    {
+        "id": 13,
+        "name": "Th\u00e0nh ph\u1ed1 Kon Tum",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-kon-tum-2220",
+        "province_id": 35,
+        "province_name": "Kon Tum"
+    }
+]

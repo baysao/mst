@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n Chi\u00eam Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chiem-hoa-4248",
+        "province_id": 61,
+        "province_name": "Tuy\u00ean Quang"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n H\u00e0m Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ham-yen-1285",
+        "province_id": 61,
+        "province_name": "Tuy\u00ean Quang"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n L\u00e2m B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-lam-binh-6088",
+        "province_id": 61,
+        "province_name": "Tuy\u00ean Quang"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Na Hang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-na-hang-5710",
+        "province_id": 61,
+        "province_name": "Tuy\u00ean Quang"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n S\u01a1n D\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-son-duong-5513",
+        "province_id": 61,
+        "province_name": "Tuy\u00ean Quang"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Y\u00ean S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-yen-son-2573",
+        "province_id": 61,
+        "province_name": "Tuy\u00ean Quang"
+    },
+    {
+        "id": 7,
+        "name": "Th\u00e0nh ph\u1ed1 Tuy\u00ean Quang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-tuyen-quang-1485",
+        "province_id": 61,
+        "province_name": "Tuy\u00ean Quang"
+    }
+]

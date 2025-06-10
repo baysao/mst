@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "38A V\u00f5 Th\u1ecb S\u00e1u",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/38a-vo-thi-sau-15044",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n C\u00e0ng Long",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cang-long-2033",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n C\u1ea7u K\u00e8",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cau-ke-3566",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n C\u1ea7u Ngang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cau-ngang-2048",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chau-thanh-1757",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Duy\u00ean H\u1ea3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-duyen-hai-1699",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Ti\u1ec3u C\u1ea7n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tieu-can-3598",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Tr\u00e0 C\u00fa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tra-cu-2035",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    },
+    {
+        "id": 9,
+        "name": "Th\u00e0nh ph\u1ed1 Tr\u00e0 Vinh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-tra-vinh-119",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    },
+    {
+        "id": 10,
+        "name": "Th\u1ecb X\u00e3 Duy\u00ean H\u1ea3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-duyen-hai-42",
+        "province_id": 60,
+        "province_name": "Tr\u00e0 Vinh"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chau-thanh-4807",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh A",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chau-thanh-a-3360",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Long M\u1ef9",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-long-my-1645",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ph\u1ee5ng Hi\u1ec7p",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phung-hiep-1208",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n V\u1ecb Th\u1ee7y",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vi-thuy-2090",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    },
+    {
+        "id": 6,
+        "name": "Th\u00e0nh ph\u1ed1 Ng\u00e3 B\u1ea3y",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-nga-bay-12115",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    },
+    {
+        "id": 7,
+        "name": "Th\u00e0nh ph\u1ed1 V\u1ecb Thanh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-vi-thanh-191",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    },
+    {
+        "id": 8,
+        "name": "Th\u1ecb X\u00e3 Long M\u1ef9",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-long-my-952",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    },
+    {
+        "id": 9,
+        "name": "Th\u1ecb X\u00e3 Ng\u00e3 B\u1ea3y",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-nga-bay-1077",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    },
+    {
+        "id": 10,
+        "name": "Th\u1ecb X\u00e3 Ng\u00e3 B\u1ea3y",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-nga-bay-11611",
+        "province_id": 28,
+        "province_name": "H\u1eadu Giang"
+    }
+]

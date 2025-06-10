@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n \u0110\u00f4ng H\u1ea3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dong-hai-1420",
+        "province_id": 5,
+        "province_name": "B\u1ea1c Li\u00eau"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Ho\u00e0 B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hoa-binh-2491",
+        "province_id": 5,
+        "province_name": "B\u1ea1c Li\u00eau"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n H\u1ed3ng D\u00e2n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hong-dan-3010",
+        "province_id": 5,
+        "province_name": "B\u1ea1c Li\u00eau"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ph\u01b0\u1edbc Long",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phuoc-long-1386",
+        "province_id": 5,
+        "province_name": "B\u1ea1c Li\u00eau"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n V\u0129nh L\u1ee3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vinh-loi-1210",
+        "province_id": 5,
+        "province_name": "B\u1ea1c Li\u00eau"
+    },
+    {
+        "id": 6,
+        "name": "Th\u00e0nh ph\u1ed1 B\u1ea1c Li\u00eau",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-bac-lieu-198",
+        "province_id": 5,
+        "province_name": "B\u1ea1c Li\u00eau"
+    },
+    {
+        "id": 7,
+        "name": "Th\u1ecb x\u00e3 Gi\u00e1 Rai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-gia-rai-1404",
+        "province_id": 5,
+        "province_name": "B\u1ea1c Li\u00eau"
+    },
+    {
+        "id": 8,
+        "name": "Th\u1ecb x\u00e3 Gi\u00e1 Rai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-gia-rai-11702",
+        "province_id": 5,
+        "province_name": "B\u1ea1c Li\u00eau"
+    }
+]

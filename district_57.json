@@ -1,0 +1,233 @@
+[
+    {
+        "id": 1,
+        "name": "20 Phan Chu Trinh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/20-phan-chu-trinh-15355",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 2,
+        "name": "81 L\u00ea Lai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/81-le-lai-15286",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n B\u00e1 Th\u01b0\u1edbc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ba-thuoc-2085",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n C\u1ea9m Thu\u1ef7",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cam-thuy-2713",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n \u0110\u00f4ng S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dong-son-698",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n H\u00e0 Trung",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ha-trung-1254",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n H\u1eadu L\u1ed9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hau-loc-2162",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Ho\u1eb1ng Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hoang-hoa-619",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n Lang Ch\u00e1nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-lang-chanh-2218",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n M\u01b0\u1eddng L\u00e1t",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-muong-lat-5700",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 11,
+        "name": "Huy\u1ec7n Nga S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nga-son-1223",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 12,
+        "name": "Huy\u1ec7n Ng\u1ecdc L\u1eb7c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ngoc-lac-436",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 13,
+        "name": "Huy\u1ec7n Nh\u01b0 Thanh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nhu-thanh-218",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 14,
+        "name": "Huy\u1ec7n Nh\u01b0 Xu\u00e2n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nhu-xuan-2955",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 15,
+        "name": "Huy\u1ec7n N\u00f4ng C\u1ed1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nong-cong-5",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 16,
+        "name": "Huy\u1ec7n Quan Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quan-hoa-2129",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 17,
+        "name": "Huy\u1ec7n Quan S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quan-son-2127",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 18,
+        "name": "Huy\u1ec7n Qu\u1ea3ng X\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quang-xuong-1860",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 19,
+        "name": "Huy\u1ec7n Th\u1ea1ch Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thach-thanh-2323",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 20,
+        "name": "Huy\u1ec7n Thi\u1ec7u Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thieu-hoa-795",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 21,
+        "name": "Huy\u1ec7n Th\u1ecd Xu\u00e2n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tho-xuan-2164",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 22,
+        "name": "Huy\u1ec7n Th\u01b0\u1eddng Xu\u00e2n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thuong-xuan-2316",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 23,
+        "name": "Huy\u1ec7n T\u0129nh Gia",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tinh-gia-623",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 24,
+        "name": "Huy\u1ec7n Tri\u1ec7u S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-trieu-son-1547",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 25,
+        "name": "Huy\u1ec7n V\u0129nh L\u1ed9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vinh-loc-1847",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 26,
+        "name": "Huy\u1ec7n Y\u00ean \u0110\u1ecbnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-yen-dinh-1463",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 27,
+        "name": "SN 03 H\u1ea1c Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/sn-03-hac-thanh-15064",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 28,
+        "name": "SN 83 L\u00ea Ho\u00e0n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/sn-83-le-hoan-15087",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 29,
+        "name": "S\u1ed1 12 Phan Chu Trinh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/so-12-phan-chu-trinh-15131",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 30,
+        "name": "Th\u00e0nh ph\u1ed1 S\u1ea7m S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-sam-son-874",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 31,
+        "name": "Th\u00e0nh ph\u1ed1 Thanh Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-thanh-hoa-140",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 32,
+        "name": "Th\u1ecb x\u00e3 B\u1ec9m S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-bim-son-233",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    },
+    {
+        "id": 33,
+        "name": "Th\u1ecb x\u00e3 Nghi S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-nghi-son-12400",
+        "province_id": 57,
+        "province_name": "Thanh Ho\u00e1"
+    }
+]

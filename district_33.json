@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n Cam L\u00e2m",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cam-lam-1627",
+        "province_id": 33,
+        "province_name": "Kh\u00e1nh H\u00f2a"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Di\u00ean Kh\u00e1nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dien-khanh-1686",
+        "province_id": 33,
+        "province_name": "Kh\u00e1nh H\u00f2a"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Kh\u00e1nh S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-khanh-son-4581",
+        "province_id": 33,
+        "province_name": "Kh\u00e1nh H\u00f2a"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Kh\u00e1nh V\u0129nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-khanh-vinh-3249",
+        "province_id": 33,
+        "province_name": "Kh\u00e1nh H\u00f2a"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Tr\u01b0\u1eddng Sa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-truong-sa-8819",
+        "province_id": 33,
+        "province_name": "Kh\u00e1nh H\u00f2a"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n V\u1ea1n Ninh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-van-ninh-2926",
+        "province_id": 33,
+        "province_name": "Kh\u00e1nh H\u00f2a"
+    },
+    {
+        "id": 7,
+        "name": "Th\u00e0nh Ph\u1ed1 Cam Ranh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-cam-ranh-1236",
+        "province_id": 33,
+        "province_name": "Kh\u00e1nh H\u00f2a"
+    },
+    {
+        "id": 8,
+        "name": "Th\u00e0nh ph\u1ed1 Nha Trang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-nha-trang-27",
+        "province_id": 33,
+        "province_name": "Kh\u00e1nh H\u00f2a"
+    },
+    {
+        "id": 9,
+        "name": "Th\u1ecb x\u00e3 Ninh Ho\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-ninh-hoa-248",
+        "province_id": 33,
+        "province_name": "Kh\u00e1nh H\u00f2a"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "39-41 Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/39-41-tran-hung-dao-15115",
+        "province_id": 15,
+        "province_name": "\u0110\u00e0 N\u1eb5ng"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Ho\u00e0 Vang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hoa-vang-1931",
+        "province_id": 15,
+        "province_name": "\u0110\u00e0 N\u1eb5ng"
+    },
+    {
+        "id": 3,
+        "name": "Qu\u1eadn C\u1ea9m L\u1ec7",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-cam-le-326",
+        "province_id": 15,
+        "province_name": "\u0110\u00e0 N\u1eb5ng"
+    },
+    {
+        "id": 4,
+        "name": "Qu\u1eadn H\u1ea3i Ch\u00e2u",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-hai-chau-47",
+        "province_id": 15,
+        "province_name": "\u0110\u00e0 N\u1eb5ng"
+    },
+    {
+        "id": 5,
+        "name": "Qu\u1eadn Li\u00ean Chi\u1ec3u",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-lien-chieu-36",
+        "province_id": 15,
+        "province_name": "\u0110\u00e0 N\u1eb5ng"
+    },
+    {
+        "id": 6,
+        "name": "Qu\u1eadn Ng\u0169 H\u00e0nh S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-ngu-hanh-son-297",
+        "province_id": 15,
+        "province_name": "\u0110\u00e0 N\u1eb5ng"
+    },
+    {
+        "id": 7,
+        "name": "Qu\u1eadn S\u01a1n Tr\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-son-tra-45",
+        "province_id": 15,
+        "province_name": "\u0110\u00e0 N\u1eb5ng"
+    },
+    {
+        "id": 8,
+        "name": "Qu\u1eadn Thanh Kh\u00ea",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-thanh-khe-311",
+        "province_id": 15,
+        "province_name": "\u0110\u00e0 N\u1eb5ng"
+    }
+]

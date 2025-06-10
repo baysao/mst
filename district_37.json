@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u1ea3o L\u00e2m",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bao-lam-3967",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n C\u00e1t Ti\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cat-tien-2661",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n \u0110\u1ea1 Huoai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-da-huoai-582",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n \u0110\u1ea1 T\u1ebbh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-da-teh-1728",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n \u0110am R\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dam-rong-587",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Di Linh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-di-linh-3087",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n \u0110\u01a1n D\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-don-duong-2007",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n \u0110\u1ee9c Tr\u1ecdng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-duc-trong-210",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n L\u1ea1c D\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-lac-duong-4771",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n L\u00e2m H\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-lam-ha-584",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 11,
+        "name": "Th\u00e0nh ph\u1ed1 B\u1ea3o L\u1ed9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-bao-loc-241",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    },
+    {
+        "id": 12,
+        "name": "Th\u00e0nh ph\u1ed1 \u0110\u00e0 L\u1ea1t",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-da-lat-104",
+        "province_id": 37,
+        "province_name": "L\u00e2m \u0110\u1ed3ng"
+    }
+]

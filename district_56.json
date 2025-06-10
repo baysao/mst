@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n \u0110\u1ea1i T\u1eeb",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dai-tu-5715",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n \u0110\u1ecbnh Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dinh-hoa-1827",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n \u0110\u1ed3ng H\u1ef7",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dong-hy-5428",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ph\u00fa B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-binh-903",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ph\u00fa L\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-luong-3432",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n V\u00f5 Nhai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vo-nhai-5684",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "id": 7,
+        "name": "Th\u00e0nh ph\u1ed1 Ph\u1ed5 Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-pho-yen-15442",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "id": 8,
+        "name": "Th\u00e0nh ph\u1ed1 S\u00f4ng C\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-song-cong-2355",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "id": 9,
+        "name": "Th\u00e0nh ph\u1ed1 Th\u00e1i Nguy\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-thai-nguyen-132",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    },
+    {
+        "id": 10,
+        "name": "Th\u1ecb x\u00e3 Ph\u1ed5 Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-pho-yen-3473",
+        "province_id": 56,
+        "province_name": "Th\u00e1i Nguy\u00ean"
+    }
+]

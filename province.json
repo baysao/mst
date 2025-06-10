@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "name": "An Giang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/an-giang-93"
+    },
+    {
+        "id": 2,
+        "name": "B\u00e0 R\u1ecba - V\u0169ng T\u00e0u",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ba-ria-vung-tau-32"
+    },
+    {
+        "id": 3,
+        "name": "B\u1eafc Giang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/bac-giang-72"
+    },
+    {
+        "id": 4,
+        "name": "B\u1eafc K\u1ea1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/bac-kan-1127"
+    },
+    {
+        "id": 5,
+        "name": "B\u1ea1c Li\u00eau",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/bac-lieu-197"
+    },
+    {
+        "id": 6,
+        "name": "B\u1eafc Ninh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/bac-ninh-170"
+    },
+    {
+        "id": 7,
+        "name": "B\u1ebfn Tre",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ben-tre-185"
+    },
+    {
+        "id": 8,
+        "name": "B\u00ecnh \u0110\u1ecbnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/binh-dinh-152"
+    },
+    {
+        "id": 9,
+        "name": "B\u00ecnh D\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/binh-duong-17"
+    },
+    {
+        "id": 10,
+        "name": "B\u00ecnh Ph\u01b0\u1edbc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/binh-phuoc-1"
+    },
+    {
+        "id": 11,
+        "name": "B\u00ecnh Thu\u1eadn",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/binh-thuan-20"
+    },
+    {
+        "id": 12,
+        "name": "C\u00e0 Mau",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ca-mau-108"
+    },
+    {
+        "id": 13,
+        "name": "C\u1ea7n Th\u01a1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/can-tho-96"
+    },
+    {
+        "id": 14,
+        "name": "Cao B\u1eb1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/cao-bang-1612"
+    },
+    {
+        "id": 15,
+        "name": "\u0110\u00e0 N\u1eb5ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/da-nang-35"
+    },
+    {
+        "id": 16,
+        "name": "\u0110\u1eafk L\u1eafk",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/dak-lak-214"
+    },
+    {
+        "id": 17,
+        "name": "\u0110\u1eafk N\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/dak-nong-245"
+    },
+    {
+        "id": 18,
+        "name": "\u0110i\u1ec7n Bi\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/dien-bien-1007"
+    },
+    {
+        "id": 19,
+        "name": "\u0110\u1ed3ng Nai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/dong-nai-57"
+    },
+    {
+        "id": 20,
+        "name": "\u0110\u1ed3ng Th\u00e1p",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/dong-thap-63"
+    },
+    {
+        "id": 21,
+        "name": "Gia Lai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/gia-lai-563"
+    },
+    {
+        "id": 22,
+        "name": "H\u00e0 Giang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ha-giang-529"
+    },
+    {
+        "id": 23,
+        "name": "H\u00e0 Nam",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ha-nam-162"
+    },
+    {
+        "id": 24,
+        "name": "H\u00e0 N\u1ed9i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ha-noi-7"
+    },
+    {
+        "id": 25,
+        "name": "H\u00e0 T\u0129nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ha-tinh-342"
+    },
+    {
+        "id": 26,
+        "name": "H\u1ea3i D\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/hai-duong-147"
+    },
+    {
+        "id": 27,
+        "name": "H\u1ea3i Ph\u00f2ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/hai-phong-99"
+    },
+    {
+        "id": 28,
+        "name": "H\u1eadu Giang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/hau-giang-190"
+    },
+    {
+        "id": 29,
+        "name": "H\u1ed3 Ch\u00ed Minh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ho-chi-minh-23"
+    },
+    {
+        "id": 30,
+        "name": "H\u00f2a B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/hoa-binh-786"
+    },
+    {
+        "id": 31,
+        "name": "Hu\u1ebf",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/hue-15895"
+    },
+    {
+        "id": 32,
+        "name": "H\u01b0ng Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/hung-yen-123"
+    },
+    {
+        "id": 33,
+        "name": "Kh\u00e1nh H\u00f2a",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/khanh-hoa-26"
+    },
+    {
+        "id": 34,
+        "name": "Ki\u00ean Giang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/kien-giang-80"
+    },
+    {
+        "id": 35,
+        "name": "Kon Tum",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/kon-tum-956"
+    },
+    {
+        "id": 36,
+        "name": "Lai Ch\u00e2u",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/lai-chau-2501"
+    },
+    {
+        "id": 37,
+        "name": "L\u00e2m \u0110\u1ed3ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/lam-dong-10"
+    },
+    {
+        "id": 38,
+        "name": "L\u1ea1ng S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/lang-son-984"
+    },
+    {
+        "id": 39,
+        "name": "L\u00e0o Cai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/lao-cai-320"
+    },
+    {
+        "id": 40,
+        "name": "Long An",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/long-an-29"
+    },
+    {
+        "id": 41,
+        "name": "Nam \u0110\u1ecbnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/nam-dinh-137"
+    },
+    {
+        "id": 42,
+        "name": "Ngh\u1ec7 An",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/nghe-an-144"
+    },
+    {
+        "id": 43,
+        "name": "Ninh B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ninh-binh-75"
+    },
+    {
+        "id": 44,
+        "name": "Ninh Thu\u1eadn",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/ninh-thuan-11"
+    },
+    {
+        "id": 45,
+        "name": "Ph\u00fa Th\u1ecd",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/phu-tho-134"
+    },
+    {
+        "id": 46,
+        "name": "Ph\u00fa Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/phu-yen-14"
+    },
+    {
+        "id": 47,
+        "name": "Qu\u1ea3ng B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quang-binh-60"
+    },
+    {
+        "id": 48,
+        "name": "Qu\u1ea3ng Nam",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quang-nam-49"
+    },
+    {
+        "id": 49,
+        "name": "Qu\u1ea3ng Ng\u00e3i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quang-ngai-301"
+    },
+    {
+        "id": 50,
+        "name": "Qu\u1ea3ng Ninh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quang-ninh-142"
+    },
+    {
+        "id": 51,
+        "name": "Qu\u1ea3ng Tr\u1ecb",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quang-tri-69"
+    },
+    {
+        "id": 52,
+        "name": "S\u00f3c Tr\u0103ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/soc-trang-949"
+    },
+    {
+        "id": 53,
+        "name": "S\u01a1n La",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/son-la-316"
+    },
+    {
+        "id": 54,
+        "name": "T\u00e2y Ninh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/tay-ninh-90"
+    },
+    {
+        "id": 55,
+        "name": "Th\u00e1i B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thai-binh-128"
+    },
+    {
+        "id": 56,
+        "name": "Th\u00e1i Nguy\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thai-nguyen-131"
+    },
+    {
+        "id": 57,
+        "name": "Thanh Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-hoa-4"
+    },
+    {
+        "id": 58,
+        "name": "Th\u1eeba Thi\u00ean Hu\u1ebf",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thua-thien-hue-66"
+    },
+    {
+        "id": 59,
+        "name": "Ti\u1ec1n Giang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/tien-giang-177"
+    },
+    {
+        "id": 60,
+        "name": "Tr\u00e0 Vinh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/tra-vinh-41"
+    },
+    {
+        "id": 61,
+        "name": "Tuy\u00ean Quang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/tuyen-quang-1284"
+    },
+    {
+        "id": 62,
+        "name": "V\u0129nh Long",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/vinh-long-193"
+    },
+    {
+        "id": 63,
+        "name": "V\u0129nh Ph\u00fac",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/vinh-phuc-420"
+    },
+    {
+        "id": 64,
+        "name": "Y\u00ean B\u00e1i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/yen-bai-724"
+    }
+]

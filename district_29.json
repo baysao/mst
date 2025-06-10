@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u00ecnh Ch\u00e1nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-binh-chanh-183",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n C\u1ea7n Gi\u1edd",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-can-gio-3480",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n C\u1ee7 Chi",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cu-chi-286",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n H\u00f3c M\u00f4n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hoc-mon-535",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Nh\u00e0 B\u00e8",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nha-be-1501",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Th\u1ee7 \u0110\u1ee9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thu-duc-12607",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 7,
+        "name": "Qu\u1eadn 1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-1-223",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 8,
+        "name": "Qu\u1eadn 10",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-10-304",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 9,
+        "name": "Qu\u1eadn 11",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-11-1334",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 10,
+        "name": "Qu\u1eadn 12",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-12-423",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 11,
+        "name": "Qu\u1eadn 2",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-2-596",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 12,
+        "name": "Qu\u1eadn 3",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-3-24",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 13,
+        "name": "Qu\u1eadn 4",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-4-545",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 14,
+        "name": "Qu\u1eadn 5",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-5-569",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 15,
+        "name": "Qu\u1eadn 6",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-6-350",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 16,
+        "name": "Qu\u1eadn 7",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-7-465",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 17,
+        "name": "Qu\u1eadn 8",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-8-284",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 18,
+        "name": "Qu\u1eadn 9",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-9-201",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 19,
+        "name": "Qu\u1eadn B\u00ecnh T\u00e2n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-binh-tan-763",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 20,
+        "name": "Qu\u1eadn B\u00ecnh Th\u1ea1nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-binh-thanh-339",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 21,
+        "name": "Qu\u1eadn G\u00f2 V\u1ea5p",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-go-vap-634",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 22,
+        "name": "Qu\u1eadn Ph\u00fa Nhu\u1eadn",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-phu-nhuan-390",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 23,
+        "name": "Qu\u1eadn T\u00e2n B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-tan-binh-212",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 24,
+        "name": "Qu\u1eadn T\u00e2n Ph\u00fa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-tan-phu-281",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 25,
+        "name": "Qu\u1eadn Th\u1ee7 \u0110\u1ee9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/quan-thu-duc-737",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    },
+    {
+        "id": 26,
+        "name": "Th\u00e0nh ph\u1ed1 Th\u1ee7 \u0111\u1ee9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-thu-duc-12592",
+        "province_id": 29,
+        "province_name": "H\u1ed3 Ch\u00ed Minh"
+    }
+]

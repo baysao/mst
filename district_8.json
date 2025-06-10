@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n An L\u00e3o",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-an-lao-8373",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Ho\u00e0i \u00c2n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hoai-an-2840",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Ho\u00e0i Nh\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hoai-nhon-2321",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ph\u00f9 C\u00e1t",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-cat-2138",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ph\u00f9 M\u1ef9",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-my-828",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n T\u00e2y S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tay-son-2044",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Tuy Ph\u01b0\u1edbc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tuy-phuoc-153",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n V\u00e2n Canh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-van-canh-1705",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n V\u0129nh Th\u1ea1nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vinh-thanh-1028",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 10,
+        "name": "S\u1ed1 08 - \u0111\u01b0\u1eddng \u0110\u00e0o Duy T\u1eeb",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/so-08-duong-dao-duy-tu-15143",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 11,
+        "name": "S\u1ed1 88 - Hoa L\u01b0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/so-88-hoa-lu-15357",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 12,
+        "name": "Th\u00e0nh ph\u1ed1 Quy Nh\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-quy-nhon-684",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 13,
+        "name": "Th\u1ecb x\u00e3 An Nh\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-an-nhon-2011",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    },
+    {
+        "id": 14,
+        "name": "Th\u1ecb x\u00e3 Ho\u00e0i Nh\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-hoai-nhon-12382",
+        "province_id": 8,
+        "province_name": "B\u00ecnh \u0110\u1ecbnh"
+    }
+]

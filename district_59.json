@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n C\u00e1i B\u00e8",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cai-be-733",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Cai L\u1eady",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cai-lay-1619",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chau-thanh-575",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ch\u1ee3 G\u1ea1o",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cho-gao-385",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n G\u00f2 C\u00f4ng \u0110\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-go-cong-dong-1975",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n G\u00f2 C\u00f4ng T\u00e2y",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-go-cong-tay-598",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n T\u00e2n Ph\u00fa \u0110\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tan-phu-dong-4728",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n T\u00e2n Ph\u01b0\u1edbc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tan-phuoc-566",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 9,
+        "name": "Th\u00e0nh Ph\u1ed1 G\u00f2 C\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-go-cong-15712",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 10,
+        "name": "Th\u00e0nh ph\u1ed1 M\u1ef9 Tho",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-my-tho-178",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 11,
+        "name": "Th\u1ecb X\u00e3 Cai L\u1eady",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-cai-lay-1999",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    },
+    {
+        "id": 12,
+        "name": "Th\u1ecb x\u00e3 G\u00f2 C\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-go-cong-1924",
+        "province_id": 59,
+        "province_name": "Ti\u1ec1n Giang"
+    }
+]

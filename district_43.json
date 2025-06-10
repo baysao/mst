@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n Gia Vi\u1ec5n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-gia-vien-252",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Hoa L\u01b0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hoa-lu-1672",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Kim S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-kim-son-275",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Nho quan",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nho-quan-250",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Y\u00ean Kh\u00e1nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-yen-khanh-270",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Y\u00ean M\u00f4",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-yen-mo-76",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    },
+    {
+        "id": 7,
+        "name": "Th\u00e0nh ph\u1ed1 Hoa L\u01b0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-hoa-lu-15926",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    },
+    {
+        "id": 8,
+        "name": "Th\u00e0nh ph\u1ed1 Ninh B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-ninh-binh-83",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    },
+    {
+        "id": 9,
+        "name": "Th\u00e0nh ph\u1ed1 Tam \u0110i\u1ec7p",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-tam-diep-506",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    },
+    {
+        "id": 10,
+        "name": "Th\u1ecb x\u00e3 Tam \u0110i\u1ec7p",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-tam-diep-11909",
+        "province_id": 43,
+        "province_name": "Ninh B\u00ecnh"
+    }
+]

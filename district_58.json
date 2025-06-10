@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n A L\u01b0\u1edbi",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-a-luoi-3419",
+        "province_id": 58,
+        "province_name": "Th\u1eeba Thi\u00ean Hu\u1ebf"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n Nam \u0110\u00f4ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-nam-dong-4851",
+        "province_id": 58,
+        "province_name": "Th\u1eeba Thi\u00ean Hu\u1ebf"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Phong \u0110i\u1ec1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phong-dien-2188",
+        "province_id": 58,
+        "province_name": "Th\u1eeba Thi\u00ean Hu\u1ebf"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ph\u00fa L\u1ed9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-loc-1327",
+        "province_id": 58,
+        "province_name": "Th\u1eeba Thi\u00ean Hu\u1ebf"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ph\u00fa Vang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-phu-vang-268",
+        "province_id": 58,
+        "province_name": "Th\u1eeba Thi\u00ean Hu\u1ebf"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Qu\u1ea3ng \u0110i\u1ec1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quang-dien-524",
+        "province_id": 58,
+        "province_name": "Th\u1eeba Thi\u00ean Hu\u1ebf"
+    },
+    {
+        "id": 7,
+        "name": "Th\u00e0nh ph\u1ed1 Hu\u1ebf",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-hue-87",
+        "province_id": 58,
+        "province_name": "Th\u1eeba Thi\u00ean Hu\u1ebf"
+    },
+    {
+        "id": 8,
+        "name": "Th\u1ecb x\u00e3 H\u01b0\u01a1ng Thu\u1ef7",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-huong-thuy-67",
+        "province_id": 58,
+        "province_name": "Th\u1eeba Thi\u00ean Hu\u1ebf"
+    },
+    {
+        "id": 9,
+        "name": "Th\u1ecb x\u00e3 H\u01b0\u01a1ng Tr\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-huong-tra-1994",
+        "province_id": 58,
+        "province_name": "Th\u1eeba Thi\u00ean Hu\u1ebf"
+    }
+]

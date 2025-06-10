@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u1eafc H\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bac-ha-5708",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n B\u1ea3o Th\u1eafng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bao-thang-1340",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n B\u1ea3o Y\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bao-yen-4852",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n B\u00e1t X\u00e1t",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bat-xat-5178",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n M\u01b0\u1eddng Kh\u01b0\u01a1ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-muong-khuong-9890",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Sa Pa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-sa-pa-5579",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Si Ma Cai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-si-ma-cai-5713",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n V\u0103n B\u00e0n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-van-ban-6653",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    },
+    {
+        "id": 9,
+        "name": "Th\u00e0nh ph\u1ed1 L\u00e0o Cai",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-lao-cai-321",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    },
+    {
+        "id": 10,
+        "name": "Th\u1ecb x\u00e3 Sa Pa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-sa-pa-11964",
+        "province_id": 39,
+        "province_name": "L\u00e0o Cai"
+    }
+]

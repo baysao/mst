@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chau-thanh-1441",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n C\u00f9 Lao Dung",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-cu-lao-dung-4680",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n K\u1ebf S\u00e1ch",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ke-sach-2442",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Long Ph\u00fa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-long-phu-950",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n M\u1ef9 T\u00fa",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-my-tu-7089",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n M\u1ef9 Xuy\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-my-xuyen-1444",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Th\u1ea1nh Tr\u1ecb",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thanh-tri-2438",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n Tr\u1ea7n \u0110\u1ec1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tran-de-5272",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 9,
+        "name": "Th\u00e0nh ph\u1ed1 S\u00f3c Tr\u0103ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-soc-trang-1093",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 10,
+        "name": "Th\u1ecb x\u00e3 Ng\u00e3 N\u0103m",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-nga-nam-1213",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    },
+    {
+        "id": 11,
+        "name": "Th\u1ecb x\u00e3 V\u0129nh Ch\u00e2u",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-vinh-chau-1075",
+        "province_id": 52,
+        "province_name": "S\u00f3c Tr\u0103ng"
+    }
+]

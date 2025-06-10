@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u1eafc M\u00ea",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bac-me-7800",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n B\u1eafc Quang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-bac-quang-964",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n \u0110\u1ed3ng V\u0103n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-dong-van-7798",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ho\u00e0ng Su Ph\u00ec",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-hoang-su-phi-5515",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n M\u00e8o V\u1ea1c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-meo-vac-7796",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Qu\u1ea3n B\u1ea1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quan-ba-7794",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n Quang B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-quang-binh-7791",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n V\u1ecb Xuy\u00ean",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vi-xuyen-530",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n X\u00edn M\u1ea7n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-xin-man-9238",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n Y\u00ean Minh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-yen-minh-7789",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    },
+    {
+        "id": 11,
+        "name": "Th\u00e0nh Ph\u1ed1 H\u00e0 Giang",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-ha-giang-756",
+        "province_id": 22,
+        "province_name": "H\u00e0 Giang"
+    }
+]

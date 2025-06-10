@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n Gia B\u00ecnh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-gia-binh-1130",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n L\u01b0\u01a1ng T\u00e0i",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-luong-tai-1000",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n Qu\u1ebf V\u00f5",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-que-vo-905",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Thu\u1eadn Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thuan-thanh-1020",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n Ti\u00ean Du",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tien-du-1139",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n Y\u00ean Phong",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-yen-phong-676",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 7,
+        "name": "Th\u00e0nh ph\u1ed1 B\u1eafc Ninh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-bac-ninh-171",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 8,
+        "name": "Th\u00e0nh ph\u1ed1 T\u1eeb S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-tu-son-15381",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 9,
+        "name": "Th\u1ecb x\u00e3 Qu\u1ebf V\u00f5",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-que-vo-15563",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 10,
+        "name": "Th\u1ecb x\u00e3 Thu\u1eadn Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-thuan-thanh-15567",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    },
+    {
+        "id": 11,
+        "name": "Th\u1ecb x\u00e3 T\u1eeb S\u01a1n",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-tu-son-331",
+        "province_id": 6,
+        "province_name": "B\u1eafc Ninh"
+    }
+]

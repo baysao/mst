@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Huy\u1ec7n B\u1ebfn L\u1ee9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-ben-luc-348",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 2,
+        "name": "Huy\u1ec7n C\u1ea7n \u0110\u01b0\u1edbc",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-can-duoc-855",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 3,
+        "name": "Huy\u1ec7n C\u1ea7n Giu\u1ed9c",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-can-giuoc-289",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 4,
+        "name": "Huy\u1ec7n Ch\u00e2u Th\u00e0nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-chau-thanh-816",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 5,
+        "name": "Huy\u1ec7n \u0110\u1ee9c Ho\u00e0",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-duc-hoa-30",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 6,
+        "name": "Huy\u1ec7n \u0110\u1ee9c Hu\u1ec7",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-duc-hue-3049",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 7,
+        "name": "Huy\u1ec7n M\u1ed9c Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-moc-hoa-1937",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 8,
+        "name": "Huy\u1ec7n T\u00e2n H\u01b0ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tan-hung-1200",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 9,
+        "name": "Huy\u1ec7n T\u00e2n Th\u1ea1nh",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tan-thanh-1240",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 10,
+        "name": "Huy\u1ec7n T\u00e2n Tr\u1ee5",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-tan-tru-1225",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 11,
+        "name": "Huy\u1ec7n Th\u1ea1nh Ho\u00e1",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thanh-hoa-3620",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 12,
+        "name": "Huy\u1ec7n Th\u1ee7 Th\u1eeba",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-thu-thua-126",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 13,
+        "name": "Huy\u1ec7n V\u0129nh H\u01b0ng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/huyen-vinh-hung-2652",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 14,
+        "name": "Th\u00e0nh ph\u1ed1 T\u00e2n An",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thanh-pho-tan-an-111",
+        "province_id": 40,
+        "province_name": "Long An"
+    },
+    {
+        "id": 15,
+        "name": "Th\u1ecb x\u00e3 Ki\u1ebfn T\u01b0\u1eddng",
+        "slug": "/tra-cuu-ma-so-thue-theo-tinh/thi-xa-kien-tuong-2991",
+        "province_id": 40,
+        "province_name": "Long An"
+    }
+]

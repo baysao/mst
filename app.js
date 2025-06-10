@@ -22,7 +22,7 @@
               + '</div>'
 r.heading = 4; //r.name.length < 16 ? 3 : 4;
 //					r._rendered = t('<li><a href="{url}"><div class="size">{size}</div><div class="title"><h{heading}>{name}</h{heading}>{stat}</div>{description}</a><div class="tags">'+tags+'</div></li>', r)
-            r._rendered = t('<li><a href="https://masothue.com{url}"><div class="size">{conpany_active_date}</div><div class="title"><h{heading}>{conpany_tax}</h{heading}>{stat}</div>{company_name}</a><div class="tags">'+tags+'</div></li>', r)					
+            r._rendered = t('<li><a href="https://masothue.com{url}" target="_blank"><div class="size">{conpany_active_date}</div><div class="title"><h{heading}>{conpany_tax}</h{heading}>{stat}</div>{company_name}</a><div class="tags">'+tags+'</div></li>', r)					
           }
           html.push(results[i]._rendered)
         }
